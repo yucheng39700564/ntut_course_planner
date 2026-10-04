@@ -1,0 +1,127 @@
+[
+  {
+    "student_id": "S001",
+    "name": "Student 1",
+    "department": "Computer Science",
+    "credit_limit": 24,
+    "selected_courses": [
+      "CS101",
+      "MA102"
+    ],
+    "activities": [
+      "A001"
+    ]
+  },
+  {
+    "student_id": "S002",
+    "name": "Student 2",
+    "department": "Computer Science",
+    "credit_limit": 24,
+    "selected_courses": [],
+    "activities": []
+  },
+  {
+    "student_id": "S003",
+    "name": "Student 3",
+    "department": "Computer Science",
+    "credit_limit": 24,
+    "selected_courses": [],
+    "activities": []
+  },
+  {
+    "student_id": "S004",
+    "name": "Student 4",
+    "department": "Computer Science",
+    "credit_limit": 24,
+    "selected_courses": [],
+    "activities": []
+  },
+  {
+    "student_id": "S005",
+    "name": "Student 5",
+    "department": "Computer Science",
+    "credit_limit": 24,
+    "selected_courses": [],
+    "activities": []
+  },
+  {
+    "student_id": "S006",
+    "name": "Student 6",
+    "department": "Computer Science",
+    "credit_limit": 24,
+    "selected_courses": [],
+    "activities": []
+  },
+  {
+    "student_id": "S007",
+    "name": "Student 7",
+    "department": "Computer Science",
+    "credit_limit": 24,
+    "selected_courses": [],
+    "activities": []
+  },
+  {
+    "student_id": "S008",
+    "name": "Student 8",
+    "department": "Computer Science",
+    "credit_limit": 24,
+    "selected_courses": [],
+    "activities": []
+  },
+  {
+    "student_id": "S009",
+    "name": "Student 9",
+    "department": "Computer Science",
+    "credit_limit": 24,
+    "selected_courses": [],
+    "activities": []
+  },
+  {
+    "student_id": "S010",
+    "name": "Student 10",
+    "department": "Computer Science",
+    "credit_limit": 24,
+    "selected_courses": [],
+    "activities": []
+  },
+  {
+    "student_id": "S011",
+    "name": "Student 11",
+    "department": "Computer Science",
+    "credit_limit": 24,
+    "selected_courses": [],
+    "activities": []
+  },
+  {
+    "student_id": "S012",
+    "name": "Student 12",
+    "department": "Computer Science",
+    "credit_limit": 24,
+    "selected_courses": [],
+    "activities": []
+  },
+  {
+    "student_id": "S013",
+    "name": "Student 13",
+    "department": "Computer Science",
+    "credit_limit": 24,
+    "selected_courses": [],
+    "activities": []
+  },
+  {
+    "student_id": "S014",
+    "name": "Student 14",
+    "department": "Computer Science",
+    "credit_limit": 24,
+    "selected_courses": [],
+    "activities": []
+  },
+  {
+    "student_id": "S015",
+    "name": "Student 15",
+    "department": "Computer Science",
+    "credit_limit": 24,
+    "selected_courses": [],
+    "activities": []
+  }
+]

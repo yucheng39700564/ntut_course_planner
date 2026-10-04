@@ -1,0 +1,98 @@
+{
+  "nodes": [
+    "Main Entrance",
+    "Administration Building",
+    "Library",
+    "First Academic Building",
+    "Second Academic Building",
+    "Third Academic Building",
+    "General Studies Building",
+    "Integrated Technology Complex",
+    "Sixth Academic Building",
+    "Design Building",
+    "Pioneer International R&D Building",
+    "Everlight Building"
+  ],
+  "edges": [
+    {
+      "from": "Main Entrance",
+      "to": "Administration Building",
+      "minutes": 2
+    },
+    {
+      "from": "Administration Building",
+      "to": "Library",
+      "minutes": 2
+    },
+    {
+      "from": "Library",
+      "to": "First Academic Building",
+      "minutes": 2
+    },
+    {
+      "from": "First Academic Building",
+      "to": "Second Academic Building",
+      "minutes": 1
+    },
+    {
+      "from": "Second Academic Building",
+      "to": "Third Academic Building",
+      "minutes": 1
+    },
+    {
+      "from": "Third Academic Building",
+      "to": "General Studies Building",
+      "minutes": 2
+    },
+    {
+      "from": "Main Entrance",
+      "to": "Integrated Technology Complex",
+      "minutes": 3
+    },
+    {
+      "from": "Integrated Technology Complex",
+      "to": "General Studies Building",
+      "minutes": 3
+    },
+    {
+      "from": "First Academic Building",
+      "to": "Sixth Academic Building",
+      "minutes": 5
+    },
+    {
+      "from": "Sixth Academic Building",
+      "to": "Design Building",
+      "minutes": 4
+    },
+    {
+      "from": "Main Entrance",
+      "to": "Pioneer International R&D Building",
+      "minutes": 4
+    },
+    {
+      "from": "Integrated Technology Complex",
+      "to": "Everlight Building",
+      "minutes": 6
+    },
+    {
+      "from": "Pioneer International R&D Building",
+      "to": "Everlight Building",
+      "minutes": 7
+    },
+    {
+      "from": "Design Building",
+      "to": "Everlight Building",
+      "minutes": 8
+    },
+    {
+      "from": "Sixth Academic Building",
+      "to": "Integrated Technology Complex",
+      "minutes": 5
+    },
+    {
+      "from": "Library",
+      "to": "General Studies Building",
+      "minutes": 2
+    }
+  ]
+}

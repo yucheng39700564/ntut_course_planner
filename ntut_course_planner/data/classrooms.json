@@ -1,0 +1,57 @@
+[
+  {
+    "code": "1TB101",
+    "capacity": 45,
+    "equipment": [
+      "projector",
+      "computer"
+    ],
+    "building": "First Academic Building"
+  },
+  {
+    "code": "1TB102",
+    "capacity": 40,
+    "equipment": [
+      "projector",
+      "computer"
+    ],
+    "building": "First Academic Building"
+  },
+  {
+    "code": "GSB201",
+    "capacity": 50,
+    "equipment": [
+      "projector"
+    ],
+    "building": "General Studies Building"
+  },
+  {
+    "code": "6TB401",
+    "capacity": 40,
+    "equipment": [
+      "projector",
+      "computer",
+      "microphone"
+    ],
+    "building": "Sixth Academic Building"
+  },
+  {
+    "code": "CB301",
+    "capacity": 45,
+    "equipment": [
+      "projector",
+      "lab"
+    ],
+    "building": "Integrated Technology Complex"
+  },
+  {
+    "code": "AUD001",
+    "capacity": 120,
+    "equipment": [
+      "projector",
+      "microphone",
+      "stage"
+    ],
+    "building": "Chiang Kai-Shek Memorial Hall"
+  }
+]

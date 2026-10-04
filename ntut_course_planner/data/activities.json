@@ -1,0 +1,169 @@
+[
+  {
+    "code": "A001",
+    "name": "Programming Study Group",
+    "day": 4,
+    "periods": [
+      "5"
+    ],
+    "capacity": 20,
+    "activity_type": "study",
+    "required_equipment": [
+      "projector"
+    ],
+    "classroom": "",
+    "participants": [
+      "S001"
+    ],
+    "cancelled": false
+  },
+  {
+    "code": "A002",
+    "name": "AI Workshop",
+    "day": 3,
+    "periods": [
+      "6",
+      "7"
+    ],
+    "capacity": 35,
+    "activity_type": "workshop",
+    "required_equipment": [
+      "projector",
+      "computer"
+    ],
+    "classroom": "",
+    "participants": [],
+    "cancelled": false
+  },
+  {
+    "code": "A003",
+    "name": "Career Talk",
+    "day": 2,
+    "periods": [
+      "8",
+      "9"
+    ],
+    "capacity": 100,
+    "activity_type": "seminar",
+    "required_equipment": [
+      "projector",
+      "microphone"
+    ],
+    "classroom": "",
+    "participants": [],
+    "cancelled": false
+  },
+  {
+    "code": "A004",
+    "name": "Robot Club",
+    "day": 5,
+    "periods": [
+      "8",
+      "9"
+    ],
+    "capacity": 25,
+    "activity_type": "club",
+    "required_equipment": [
+      "computer"
+    ],
+    "classroom": "",
+    "participants": [],
+    "cancelled": false
+  },
+  {
+    "code": "A005",
+    "name": "English Corner",
+    "day": 1,
+    "periods": [
+      "5"
+    ],
+    "capacity": 30,
+    "activity_type": "language",
+    "required_equipment": [],
+    "classroom": "",
+    "participants": [],
+    "cancelled": false
+  },
+  {
+    "code": "A006",
+    "name": "Cybersecurity Meetup",
+    "day": 3,
+    "periods": [
+      "a"
+    ],
+    "capacity": 30,
+    "activity_type": "seminar",
+    "required_equipment": [
+      "projector"
+    ],
+    "classroom": "",
+    "participants": [],
+    "cancelled": false
+  },
+  {
+    "code": "A007",
+    "name": "Sports Meeting",
+    "day": 6,
+    "periods": [
+      "2",
+      "3"
+    ],
+    "capacity": 60,
+    "activity_type": "sports",
+    "required_equipment": [],
+    "classroom": "",
+    "participants": [],
+    "cancelled": false
+  },
+  {
+    "code": "A008",
+    "name": "Design Exhibition",
+    "day": 6,
+    "periods": [
+      "5",
+      "6"
+    ],
+    "capacity": 80,
+    "activity_type": "exhibition",
+    "required_equipment": [
+      "projector"
+    ],
+    "classroom": "",
+    "participants": [],
+    "cancelled": false
+  },
+  {
+    "code": "A009",
+    "name": "Research Seminar",
+    "day": 4,
+    "periods": [
+      "a",
+      "b"
+    ],
+    "capacity": 50,
+    "activity_type": "seminar",
+    "required_equipment": [
+      "projector",
+      "microphone"
+    ],
+    "classroom": "",
+    "participants": [],
+    "cancelled": false
+  },
+  {
+    "code": "A010",
+    "name": "Freshman Meeting",
+    "day": 1,
+    "periods": [
+      "1"
+    ],
+    "capacity": 100,
+    "activity_type": "meeting",
+    "required_equipment": [
+      "microphone"
+    ],
+    "classroom": "",
+    "participants": [],
+    "cancelled": false
+  }
+]
